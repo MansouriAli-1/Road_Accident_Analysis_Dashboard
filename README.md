@@ -11,9 +11,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -56,15 +53,7 @@ Welcome to the **Road Accident Analysis Dashboard** repository! This project lev
 
 ## Data Sources
 
-- **National Road Safety Data**  
-  Comprehensive data on road accidents, including location, time, severity, and contributing factors.  
-  [Link to Data Source](https://example.com/national-road-safety-data)
-
-- **Demographic Statistics**  
-  Population and demographic information relevant to the analysis.  
-  [Link to Data Source](https://example.com/demographic-statistics)
-
-*Note: Ensure you have the appropriate permissions to use these datasets. Replace the example links with actual data sources used in your project.*
+- The data used in this project is included in the [Data](https://github.com/MansouriAli-1/Road_Accident_Analysis_Dashboard/tree/main/Data) folder.
 
 ## Technologies Used
 
@@ -115,25 +104,6 @@ Once you have the dashboard open in Power BI Desktop:
 4. **Export Reports**  
    Export the reports to PDF or PowerPoint for presentations or further analysis.
 
-## Screenshots
-
-*Include screenshots of your dashboard here to give users a visual preview.*
-
-### Dashboard Overview
-
-![Dashboard Overview](./screenshots/dashboard_overview.png)
-
-### Accident Severity by Casualties
-
-![Accident Severity](./screenshots/accident_severity.png)
-
-### Geographical Insights
-
-![Geographical Insights](./screenshots/geographical_insights.png)
-
-### Temporal Trends
-
-![Temporal Trends](./screenshots/temporal_trends.png)
 
 ## Key Findings
 
@@ -142,47 +112,13 @@ Once you have the dashboard open in Power BI Desktop:
 - **Vulnerable Users:** Cyclists and motorcyclists are significantly affected.
 - **Daylight Hours:** Higher accidents during daylight suggest behavioral factors at play.
 
-## Contributing
-
-Contributions are welcome! If you'd like to enhance the dashboard or fix any issues, please follow these steps:
-
-1. **Fork the Repository**
-
-2. **Create a Feature Branch**
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m "Add your feature"
-   ```
-
-4. **Push to the Branch**
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a Pull Request**
-
-Please ensure your contributions adhere to the project's coding standards and include relevant documentation.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
 For any questions or feedback, please contact:
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Name:** Ali MANSOURI
+- **Email:** maneducation10@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ali-mansouri-60b2b0286/)
 
----
 
-*Feel free to customize this README to better fit the specifics of your project. Including actual screenshots, detailed data source links, and specific features will enhance the clarity and usefulness of your documentation.*
