@@ -1,6 +1,6 @@
 # Road Accident Analysis Dashboard 🚦📊
 
-![Road Accident Analysis Dashboard](./screenshots/dashboard_overview.png)
+![Road Accident Analysis Dashboard](./screenshots/Road Accident Dashboard 01-1.png)
 
 ## Table of Contents
 
