@@ -19,22 +19,22 @@ Welcome to the **Road Accident Analysis Dashboard** repository! This project lev
 
 ## Features
 
-- **Accident Severity by Casualties** 🚨  
+- 🚨 **Accident Severity by Casualties**  
   Analyzes factors contributing to accident severity, including the number and extent of casualties, helping identify areas for targeted interventions.
 
-- **Casualty Insights by Road Type & Vehicle Type** 🛣️🚗  
+- 🛣️🚗 **Casualty Insights by Road Type & Vehicle Type**   
   Highlights high-risk areas such as urban roads and prioritizes safety measures for vulnerable road users like cyclists and motorcyclists.
 
-- **Temporal & Environmental Trends** 📅🌦️  
+- 📅🌦️ **Temporal & Environmental Trends** 
   Reveals potential increases in casualties during specific months and daylight hours, suggesting seasonal and behavioral factors affecting road safety.
 
-- **Geographical Visualization** 🗺️  
+- 🗺️ **Geographical Visualization**  
   Utilizes interactive maps to pinpoint accident hotspots and allows filtering by weather conditions and road surfaces for comprehensive risk assessment.
 
-- **Key Performance Indicators (KPIs)** 📈  
+- 📈 **Key Performance Indicators (KPIs)**  
   Displays primary KPIs like total casualties and accident severity with year-over-year growth, alongside secondary KPIs such as casualties by vehicle type.
 
-- **Interactive Filters & Slicers** 🔍  
+- 🔍 **Interactive Filters & Slicers**  
   Enables users to customize views based on date ranges, locations, accident types, and more for a tailored analysis experience.
 
 ## Key Findings
@@ -119,6 +119,6 @@ For any questions or feedback, please contact:
 
 - **Name:** Ali MANSOURI
 - **Email:** maneducation10@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ali-mansouri-60b2b0286/)
+- **LinkedIn:** [Ali Mansouri](https://www.linkedin.com/in/ali-mansouri-60b2b0286/)
 
 
